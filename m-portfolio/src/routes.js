@@ -1,12 +1,12 @@
 import React from "react";
 import AboutMe from "./Components/AboutMe";
-import Portfolio from "./Components/Portfolio/Portfolio.jsx";
-import Contact from "./Components/Contact/Form.jsx";
+import Portfolio from "./Components/Portfolio";
+import Contacts from "./Components/Contacts";
 
 const routes = {
   "/": () => <AboutMe />,
   "/Portfolio": () => <Portfolio />,
-  "/Contact": () => <Contact />
+  "/Contacts": () => <Contacts />
 };
 
 export default routes;

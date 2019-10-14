@@ -8,7 +8,7 @@ function Resume1() {
           <section className="text-center" style={{ padding: 0 }}>
             <img className="porfile-pic" src="img/partyPic.jpg" alt="" />
             <h2 style={{ marginBottom: "5px" }}>Web Developer</h2>
-            <small className="text-muted">UI / UX DESIGNER/DEVELOPER</small>
+            <small className="text-muted">UI / DEVELOPER</small>
             <p className="text-muted">
               <small>
                 <b>Phone:</b> +(980-345-9972)
@@ -54,6 +54,9 @@ function Resume1() {
               </li>
               <li>
                 AJAX <i class="far fa-file-code"></i>
+              </li>
+              <li>
+                FontAwesome <i class="far fa-file-code"></i>
               </li>
               <li>
                 Bootstrap <i class="fab fa-bootstrap"></i>{" "}

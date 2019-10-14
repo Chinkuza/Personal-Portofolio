@@ -6,7 +6,7 @@ function Table() {
       <thead>
         <tr>
           <th scope="col">#</th>
-          <th scope="col">Language</th>
+          <th scope="col">Language Used</th>
           {/* <th scope="col">Last</th>
           <th scope="col">Handle</th> */}
         </tr>
@@ -14,21 +14,18 @@ function Table() {
       <tbody>
         <tr>
           <th scope="row">1</th>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td>
+          <td>SQL</td>
+          <td> Database of inventory for E-commerce site</td>
         </tr>
         <tr>
           <th scope="row">2</th>
-          <td>Jacob</td>
-          <td>Thornton</td>
-          <td>@fat</td>
+          <td>JavaScript</td>
+          <td>Functionality to user input and commands</td>
         </tr>
         <tr>
           <th scope="row">3</th>
-          <td>Larry</td>
-          <td>the Bird</td>
-          <td>@twitter</td>
+          <td>Node.js</td>
+          <td>To use express framework for server use</td>
         </tr>
       </tbody>
     </table>

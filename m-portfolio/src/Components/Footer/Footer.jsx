@@ -8,8 +8,8 @@ function Footer() {
           <div className="col-sm-12 col-md-6">
             <h6>About</h6>
             <p className="text-justify">
-              Scanfcode.com <i>CODE WANTS TO BE SIMPLE </i> is an initiative to
-              help the upcoming programmers with the code.
+              For any questions please reach out to me at
+              <a href="mailto:J.rosarioc2h@gmail.com">J.rosarioc2h@gmail.com</a>
             </p>
           </div>
           <div className="col-xs-6 col-md-3">
